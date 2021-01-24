@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/qNDZsZi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="qNDZsZi"><a href="https://imgur.com/qNDZsZi">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ Some of the challenges faced while creating the app was:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Anmol Gautam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
